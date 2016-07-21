@@ -1,0 +1,1 @@
+# Sample Project for [#6440](https://github.com/spring-projects/spring-boot/issues/6440)
